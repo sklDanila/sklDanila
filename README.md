@@ -45,7 +45,7 @@ I'm **Danila Sklovskii**, a QA Engineer with a strong foundation in manual testi
 ## 💼 EXPERIENCE
 
 ### Junior QA Engineer — 1C Franchisee “Easy Code”  
-*Apr 2024 – May 2025*  
+*July 2024 – January 2026*  
 - Manual testing of web & mobile apps (React, React Native)  
 - API testing via Postman, Swagger; verified responses & edge cases  
 - UI verification using Figma (cross-browser & responsive)  
