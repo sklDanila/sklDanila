@@ -1,94 +1,140 @@
-# Hi there! 👋
+# Hi, I'm Danila Sklovskii 👋
 
-I'm **Danila Sklovskii**, a QA Engineer with a strong foundation in manual testing of web and mobile applications, API validation, and UI/UX verification. I'm passionate about software quality, automation, and continuously improving engineering processes through hands-on collaboration and tools.
+## QA Automation Engineer
 
-<img src="https://github.com/sklDanila/sklDanila/blob/main/assets/workwork.gif" width="1000" height="300" alt="work gif" />
+QA Automation Engineer with **3+ years of experience** testing web applications, backend systems, REST APIs, and microservice-based architectures.
 
----
+I focus on building reliable and maintainable automated tests for **API, UI, and E2E scenarios** using Python-based tooling.
 
-- 🌍 Based in Podgorica, Montenegro  
-- 🎓 Bachelor's Student in Information Systems and Technologies @ UDG  
-- 📫 Reach me:  
-  [![Telegram Badge](https://img.shields.io/badge/@sklit_qa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sklit_qa)  
-  [![Gmail Badge](https://img.shields.io/badge/-danilasklovskii.dev@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:danilasklovskii.dev@gmail.com)  
-  [![LinkedIn Badge](https://img.shields.io/badge/-danila--sklovskii--qa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danila-sklovskii-qa/)  
-  [![GitHub Badge](https://img.shields.io/badge/-sklit--dsk-black?style=flat&logo=github&logoColor=white)](https://github.com/sklit-dsk)
+My main areas of interest are test automation, backend/API quality, integration testing, CI/CD, and improving test stability and feedback time.
 
 ---
 
-## 🧠 SKILLS
+## 🧪 Core QA & Automation Stack
 
-**QA Skills**  
-- Testing Methodologies / STLC  
-- Manual Web & Mobile Testing  
-- UI Testing (pixel-perfect via Figma)  
-- API Testing (Postman, Swagger, Charles Proxy)  
-- Regression / Functional / Exploratory Testing  
-- Black-box / White-box Testing  
+### Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Technical Skills**  
-- Python / JavaScript / Bash  
-- SQL (queries, data validation)  
-- Docker / Apache Kafka / Git  
-- DevTools / Charles Proxy / Grafana  
+- API Automation
+- UI Automation
+- End-to-End Testing
+- Test Framework Design
+- Page Object Model
+- Fixtures
+- Parametrization
+- OOP / SOLID
 
-**Tools**  
-- Jira / Trello (task and bug tracking)  
-- TestRail (test case & plan management)  
+### API & Backend
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-**Methodologies**  
-- Agile / Scrum  
-- Kanban  
+- REST API Testing
+- Requests
+- Swagger / OpenAPI
+- Authentication & Authorization Testing
+- Positive / Negative Scenarios
+- Integration Testing
+- Backend Testing
+- Microservices Testing
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+- PostgreSQL
+- SQL
+- SQLAlchemy
+- Data Validation
+- API ↔ Database Verification
+- Apache Kafka
+
+### CI/CD & Infrastructure
+![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+- GitLab CI/CD
+- Automated Smoke & Regression Runs
+- Docker
+- Kubernetes
+- Git
+
+### QA & Observability
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Exploratory Testing
+- Test Design
+- Test Cases & Checklists
+- Defect Management
+- Root Cause Analysis
+- Kibana
+- Allure
+- Jira
+- Confluence
+- TestRail
+- Chrome DevTools
+
+---
+
+## 🔍 What I Work With
+
+I develop and maintain automated tests for:
+
+- REST APIs
+- Backend services
+- Web applications
+- End-to-end user flows
+- Database validation
+- Service integrations
+- Microservice-based systems
+
+I also work with test execution in CI/CD pipelines, Docker-based environments, Kubernetes deployments, logs, test reports, and regression analysis.
 
 ---
 
-## 💼 EXPERIENCE
+## ⚙️ Automation Approach
 
-### Junior QA Engineer — 1C Franchisee “Easy Code”  
-*July 2024 – January 2026*  
-- Manual testing of web & mobile apps (React, React Native)  
-- API testing via Postman, Swagger; verified responses & edge cases  
-- UI verification using Figma (cross-browser & responsive)  
-- Backend/API validation with focus on data integrity  
-- Bug reporting, checklist/test case creation  
-- Debugging via DevTools; worked closely with developers and designers  
-- Actively contributed during sprints and pre-release QA  
+When working with automation, I focus on:
 
-### Freelance — QA & Automation Developer  
-*2023 – Apr 2024*  
-- Developed automation tools and parsers using Python and JS  
-- Integrated third-party APIs and handled data workflows  
-- Performed manual and semi-automated testing  
-- Identified performance issues and logic flaws; wrote detailed bug reports  
-- Collaborated with clients and teams to clarify requirements  
-- Used Git & GitHub for version control and collaboration  
+- reusable test architecture;
+- stable selectors and synchronization;
+- independent test data;
+- readable fixtures and parametrization;
+- API schema validation;
+- database verification;
+- meaningful assertions;
+- maintainable Page Object structures;
+- fast feedback through CI/CD;
+- investigation and reduction of flaky tests.
 
 ---
 
-## 🎓 EDUCATION
+## 📌 Engineering Focus
 
-**University of Donja Gorica (UDG), Montenegro**  
-*Bachelor’s in Information Systems and Technologies (2023–2026)*  
+```text
+Python
+├── Pytest
+├── Playwright
+├── Requests
+├── Pydantic
+└── SQLAlchemy
 
-**Kazan National Research Technical University (KAI), Russia**  
-*Bachelor’s in Information Systems and Technologies (unfinished, 2020–2023)*  
+Testing
+├── API Automation
+├── UI Automation
+├── E2E Testing
+├── Integration Testing
+├── Regression Testing
+└── Backend Testing
 
----
-
-## 🌐 LANGUAGES
-
-- 🇷🇺 Russian – Native  
-- 🇬🇧 English – Intermediate  
-- 🇷🇸 Serbian – Intermediate  
-
----
-
-## ☕ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/skldanila" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" />
-  </a>
-</div>
-
----
+Infrastructure
+├── GitLab CI/CD
+├── Docker
+├── Kubernetes
+├── PostgreSQL
+└── Apache Kafka
